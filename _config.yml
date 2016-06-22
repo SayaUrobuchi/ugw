@@ -10,9 +10,9 @@ title: 幻想創世詩
 email: sa072686@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   充滿無窮魔力與幻想<br />
-  無數言靈交織成詩篇<br />
-  喚來奇蹟侵蝕著現實<br />
-  讓希望吞噬掉不可能<br />
+  　無數言靈交織成詩篇<br />
+  　　喚來奇蹟侵蝕著現實<br />
+  　　　讓希望吞噬掉不可能<br />
 baseurl: "/ugw" # the subpath of your site, e.g. /blog
 url: "http://sayaurobuchi.github.io" # the base hostname & protocol for your site
 twitter_username: sa072686
