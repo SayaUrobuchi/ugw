@@ -1,0 +1,27 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 幻想創世詩
+email: sa072686@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  充滿無窮魔力與幻想<br />
+  無數言靈交織成詩篇<br />
+  喚來奇蹟侵蝕著現實<br />
+  讓希望吞噬掉不可能<br />
+baseurl: "/ugw" # the subpath of your site, e.g. /blog
+url: "http://sayaurobuchi.github.io" # the base hostname & protocol for your site
+twitter_username: sa072686
+github_username:  sayaurobuchi
+
+# Build settings
+markdown: kramdown
+
+# markdown settings
+kramdown:
+  input: GFM
+  hard_wrap: true
