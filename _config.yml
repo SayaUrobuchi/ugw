@@ -25,3 +25,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: true
+  
+# other
+disqus: ugw
+google_analytics: UA-79656767-1

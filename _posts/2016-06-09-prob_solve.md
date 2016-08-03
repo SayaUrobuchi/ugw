@@ -2,6 +2,7 @@
 layout: post
 title:  "程式解題與競賽"
 date:   2016-06-09 23:25:00 +0900
+author: 沙耶
 categories: 
 comments: true
 ---

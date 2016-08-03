@@ -2,6 +2,7 @@
 layout: post
 title:  "『魔女與百騎兵』通關雜感．初"
 date:   2016-06-20 21:43:00 +0900
+author: 沙耶
 categories: game
 tags: 遊戲感想, 魔女與百騎兵
 comments: true
